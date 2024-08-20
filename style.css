@@ -1,12 +1,13 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
+    color: blue:
 }
 
 .content-box {
     border: 2px solid #2a5298;
     border-radius: 15px;
     padding: 15px;
-    background-color: #f0f8ff; /* Cor de fundo suave */
+    background-color: #0088ff; /* Cor de fundo */
     margin: 20px 0;
 }
